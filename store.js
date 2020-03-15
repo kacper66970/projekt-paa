@@ -1,3 +1,4 @@
+
 const storage = require('azure-storage')
 const service = storage.createTableService()
 const table = 'tasks'
